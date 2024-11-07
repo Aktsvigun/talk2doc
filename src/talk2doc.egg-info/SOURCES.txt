@@ -1,0 +1,8 @@
+setup.py
+src/talk2doc/__init__.py
+src/talk2doc/main.py
+src/talk2doc.egg-info/PKG-INFO
+src/talk2doc.egg-info/SOURCES.txt
+src/talk2doc.egg-info/dependency_links.txt
+src/talk2doc.egg-info/requires.txt
+src/talk2doc.egg-info/top_level.txt
