@@ -29,7 +29,7 @@ if "messages" not in st.session_state:
 if "assistant" not in st.session_state:
     st.session_state.assistant = None
 
-st.set_page_config(page_title="Routing", layout="wide")
+st.set_page_config(page_title="Talk2YourDoc", layout="wide")
 
 
 def main():

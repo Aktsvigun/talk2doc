@@ -18,7 +18,7 @@ def _encode_image_to_base64(image_path: str) -> str:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
 
-# Function to call GPT-4o API with the base64 image and a question
+# Function to call Vision LM with the base64 image and a question
 async def _acall_model(
     client: Client,
     base64_image: str,
